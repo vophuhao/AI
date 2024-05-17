@@ -1,4 +1,4 @@
-from copy import 
+from copy import deepcopy
 
 TIME_OUT = 1800
 '''
