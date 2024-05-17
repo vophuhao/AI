@@ -1,0 +1,7 @@
+numpy
+os
+colorama
+copy
+pygame
+time
+queue 
