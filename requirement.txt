@@ -5,3 +5,4 @@ copy
 pygame
 time
 queue 
+streamlit
