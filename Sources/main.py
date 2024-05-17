@@ -1,8 +1,7 @@
 import numpy as np
 import os
-from colorama import Fore
-from colorama import Style
-from copy import deepcopy
+
+
 import pygame
 from pygame.constants import KEYDOWN
 
